@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+#picture{
+  width: 50%;
+}
+
+
+#geninfo{
+  font-family: 'Inconsolata';
+  overflow: hidden;
+  padding: 7px;
+}
+
+#header{
+  position: sticky;
+  background-color: white;
+  border-bottom: 2px solid blue;
+}
+
+#headertext{
+  font-family: 'Inconsolata';
+  text-align: center;
+}
+
+#links{
+  font-family: 'Inconsolata';
+  float: right;
+}
+
+#subheader{
+  font-family: 'Inconsolata';
+  float: right;
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  padding: 16px;
+}
